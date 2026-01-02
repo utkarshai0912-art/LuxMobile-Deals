@@ -1,0 +1,7 @@
+{
+  "name": "LuxMobile Deals - Premium Smartphone Flash Sales",
+  "description": "A high-performance, SEO-optimized e-commerce landing page featuring deep discounts on premium smartphones with integrated AdSense monetization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
